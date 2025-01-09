@@ -17,6 +17,9 @@ The main goal is to build a lightweight game engine to:
 - Explore **Lua scripting** for game logic.
 - Create a foundation for experimenting with game mechanics.
 
+![Game Engine Screenshot](2dgameengine/Screen Shot 2025-01-09 at 15.10.45.png)
+
+
 ## Requirements
 To run this project, you'll need:
 - A C++17-compatible compiler.
