@@ -18,6 +18,8 @@ The main goal is to build a lightweight game engine to:
 - Create a foundation for experimenting with game mechanics.
 
 ![Game Engine Screenshot](2dgameengine/codigo.png)
+<img src="2dgameengine/codigo.png" alt="Game Engine Screenshot" width="400">
+
 
 
 ## Requirements
