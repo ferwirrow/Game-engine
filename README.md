@@ -36,3 +36,5 @@ To run this project, you'll need:
 2. Compile:
    ```bash
    g++ -Wall -std=c++17 -I"./libs/" src/*.cpp -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer -llua5.4  -o gameengine;
+
+<img src="2dgameengine/imagen.png" alt="Game Engine Screenshot" width="700">
